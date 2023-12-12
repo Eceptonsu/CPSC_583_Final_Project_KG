@@ -1,6 +1,6 @@
 # Knowledge Graph Embeddings: TripleRE
 
-TThe code is comes from an open source code repo at [https://github.com/yulong-CSAI/TripleRE-biokg](https://github.com/yulong-CSAI/TripleRE-biokg).
+The code is comes from an open source code repo at [https://github.com/yulong-CSAI/TripleRE-biokg](https://github.com/yulong-CSAI/TripleRE-biokg).
 
 Due to Python multithreading challenges, this codebase may encounter issues when run locally. To address this, we have developed a Google Colab notebook, `TripleRE.ipynb`, which enables execution on a cloud server.
 
