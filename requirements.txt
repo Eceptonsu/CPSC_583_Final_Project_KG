@@ -6,3 +6,7 @@ networkx
 scikit-learn
 tensorflow
 ogb
+hyperopt
+ray==2.3.0
+torch
+wandb
