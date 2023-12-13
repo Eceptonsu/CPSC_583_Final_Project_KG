@@ -1,7 +1,7 @@
 # CPSC_583_Final_Project_KG: MovieLens100K Dataset
 
 ## Preliminary Data Analysis
-To generate the preliminary data analysis results and corresponding plots on both MovieLens100K dataset, please run the notebook: Movielens_PreliminaryAnalysis.ipynb
+To generate the preliminary data analysis results and corresponding plots on the MovieLens100K dataset, please run the notebook: Movielens_PreliminaryAnalysis.ipynb
 
 ## Traditional Link Prediction
 To generate the traditional link prediction models' performance results on the MovieLens100K dataset, please run the notebook: Movielens_LinkPrediction.ipynb\
