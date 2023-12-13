@@ -39,6 +39,10 @@ pip install -r requirements.txt
 
 For the rest of the dependencies
 
+### Warning
+
+Some code requires ogb==1.2.4 while others work fine with the newest version
+
 ## Running the Project
 Please refer to the individual README.md files in the [MovieLens](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG/tree/main/MovieLens) and [obgl-biokg](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG/tree/main/ogbl-biokg) directories for separate instructions
 
