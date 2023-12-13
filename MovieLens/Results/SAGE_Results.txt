@@ -1,0 +1,66 @@
+100%|██████████| 54/54 [00:07<00:00,  6.75it/s]
+Epoch: 001, Training Accuracy: 0.5961, Val AUC: 0.7735, Test AUC: 0.7778
+100%|██████████| 54/54 [00:06<00:00,  8.50it/s]
+Epoch: 002, Training Accuracy: 0.7107, Val AUC: 0.8123, Test AUC: 0.8172
+100%|██████████| 54/54 [00:08<00:00,  6.71it/s]
+Epoch: 003, Training Accuracy: 0.7411, Val AUC: 0.8422, Test AUC: 0.8475
+100%|██████████| 54/54 [00:08<00:00,  6.63it/s]
+Epoch: 004, Training Accuracy: 0.7501, Val AUC: 0.8633, Test AUC: 0.8670
+100%|██████████| 54/54 [00:08<00:00,  6.63it/s]
+Epoch: 005, Training Accuracy: 0.7611, Val AUC: 0.8680, Test AUC: 0.8737
+100%|██████████| 54/54 [00:06<00:00,  8.34it/s]
+Epoch: 006, Training Accuracy: 0.7708, Val AUC: 0.8629, Test AUC: 0.8717
+100%|██████████| 54/54 [00:08<00:00,  6.52it/s]
+Epoch: 007, Training Accuracy: 0.7673, Val AUC: 0.8780, Test AUC: 0.8796
+100%|██████████| 54/54 [00:06<00:00,  8.04it/s]
+Epoch: 008, Training Accuracy: 0.7770, Val AUC: 0.8750, Test AUC: 0.8779
+100%|██████████| 54/54 [00:07<00:00,  7.18it/s]
+Epoch: 009, Training Accuracy: 0.7836, Val AUC: 0.8821, Test AUC: 0.8880
+100%|██████████| 54/54 [00:06<00:00,  7.87it/s]
+Epoch: 010, Training Accuracy: 0.7801, Val AUC: 0.8814, Test AUC: 0.8864
+
+
+
+100%|██████████| 54/54 [00:06<00:00,  8.56it/s]
+Epoch: 001, Training Accuracy: 0.6205, Val AUC: 0.7963, Test AUC: 0.8026
+100%|██████████| 54/54 [00:07<00:00,  6.86it/s]
+Epoch: 002, Training Accuracy: 0.7244, Val AUC: 0.8405, Test AUC: 0.8365
+100%|██████████| 54/54 [00:06<00:00,  8.65it/s]
+Epoch: 003, Training Accuracy: 0.7476, Val AUC: 0.8602, Test AUC: 0.8605
+100%|██████████| 54/54 [00:08<00:00,  6.71it/s]
+Epoch: 004, Training Accuracy: 0.7594, Val AUC: 0.8728, Test AUC: 0.8736
+100%|██████████| 54/54 [00:06<00:00,  8.58it/s]
+Epoch: 005, Training Accuracy: 0.7661, Val AUC: 0.8649, Test AUC: 0.8677
+100%|██████████| 54/54 [00:07<00:00,  6.83it/s]
+Epoch: 006, Training Accuracy: 0.7756, Val AUC: 0.8807, Test AUC: 0.8811
+100%|██████████| 54/54 [00:06<00:00,  8.51it/s]
+Epoch: 007, Training Accuracy: 0.7779, Val AUC: 0.8774, Test AUC: 0.8773
+100%|██████████| 54/54 [00:07<00:00,  6.78it/s]
+Epoch: 008, Training Accuracy: 0.7761, Val AUC: 0.8847, Test AUC: 0.8875
+100%|██████████| 54/54 [00:06<00:00,  8.47it/s]
+Epoch: 009, Training Accuracy: 0.7792, Val AUC: 0.8815, Test AUC: 0.8834
+100%|██████████| 54/54 [00:07<00:00,  6.75it/s]
+Epoch: 010, Training Accuracy: 0.7820, Val AUC: 0.8798, Test AUC: 0.8826
+
+
+
+100%|██████████| 54/54 [00:09<00:00,  5.76it/s]
+Epoch: 001, Training Accuracy: 0.6147, Val AUC: 0.7844, Test AUC: 0.7859
+100%|██████████| 54/54 [00:08<00:00,  6.70it/s]
+Epoch: 002, Training Accuracy: 0.7152, Val AUC: 0.8313, Test AUC: 0.8335
+100%|██████████| 54/54 [00:06<00:00,  8.60it/s]
+Epoch: 003, Training Accuracy: 0.7394, Val AUC: 0.8531, Test AUC: 0.8581
+100%|██████████| 54/54 [00:07<00:00,  6.88it/s]
+Epoch: 004, Training Accuracy: 0.7596, Val AUC: 0.8567, Test AUC: 0.8606
+100%|██████████| 54/54 [00:06<00:00,  8.63it/s]
+Epoch: 005, Training Accuracy: 0.7575, Val AUC: 0.8730, Test AUC: 0.8768
+100%|██████████| 54/54 [00:07<00:00,  6.91it/s]
+Epoch: 006, Training Accuracy: 0.7724, Val AUC: 0.8813, Test AUC: 0.8869
+100%|██████████| 54/54 [00:06<00:00,  8.46it/s]
+Epoch: 007, Training Accuracy: 0.7822, Val AUC: 0.8778, Test AUC: 0.8820
+100%|██████████| 54/54 [00:07<00:00,  6.88it/s]
+Epoch: 008, Training Accuracy: 0.7813, Val AUC: 0.8743, Test AUC: 0.8783
+100%|██████████| 54/54 [00:06<00:00,  8.57it/s]
+Epoch: 009, Training Accuracy: 0.7776, Val AUC: 0.8806, Test AUC: 0.8849
+100%|██████████| 54/54 [00:07<00:00,  6.85it/s]
+Epoch: 010, Training Accuracy: 0.7815, Val AUC: 0.8837, Test AUC: 0.8870
