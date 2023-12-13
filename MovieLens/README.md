@@ -12,4 +12,4 @@ In the function train, you can change the value of mode to test different loss f
 ## Result Plotting for Traditional Link Prediction with Residual Architecture
 To plot the result graphs for Traditional Link Prediction with Residual Architecture, please run the notebook: LinkPrediction_Result_Plotting.ipynb\
 The notebook also contains the mean and variance calculations of the results.\
-All results of the 6 different model variances could be found in the Results folder
+All results of the 6 different models could be found in the Results folder.
