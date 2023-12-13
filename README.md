@@ -8,6 +8,20 @@ Our project can be devided into three main part:
 2. We utilized more cutting-edge methods such as KG Embeddings and Ensemble learning to attempt the same link prediction tasks. 
 3. We also proposed further improvements such as utilizing Genetic Algorithm.
 
-## Datasets
-To generate the traditional link prediction models' performance results on the MovieLens100K dataset, please run the notebook: Movielens_LinkPrediction.ipynb\
-In the class "Embedder", you can change the variable self.gnn to one of the 6 following model variables: "self.sage, self.sage_res, self.sage_res_2, self.gat, self.gat_res, self.gat_res_2" (e.g. self.gnn = self.gat_res_2) to run different models
+## Dependencies
+Please first install torch with CUDA\
+Then do
+`pip install torch_geometric`
+`python -c "import torch; print(torch.version.cuda)"`
+And then
+`pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-${TORCH}+${CUDA}.html`
+Where TORCH and CUDA are replaced by the specific torch and CUDA versions\
+(according to the official documentation https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)\
+
+Then, you can simply do
+`pip install -r requirements.txt`
+For the rest of the dependencies
+
+## Running the Project
+Please refer to the individual README.md files in the MovieLens and obgl-biokg directories for separate instructions
+
