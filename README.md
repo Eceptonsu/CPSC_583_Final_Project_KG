@@ -4,9 +4,9 @@ This is the github repository for Fall 23 CPSC 583 Final Project by Bowen Duanmu
 ## Project Overview
 Our project can be devided into three main part:
 
-1. We explored the traditional GNN methods' effectiveness and limits on tackling link prediction tasks on complex heterogeneous Knowledge Graphs.  
-2. We utilized more cutting-edge methods such as KG Embeddings and Ensemble learning to attempt the same link prediction tasks. 
-3. We also proposed further improvements such as utilizing Genetic Algorithm.
+1. Traditional GNN methods' effectiveness and limits on tackling link prediction tasks on complex heterogeneous KGs.  
+2. More cutting-edge methods such as KG Embeddings and ensemble learning to attempt the same link prediction tasks. 
+3. Genetic Algorithm.
 
 ## Dependencies
 Please first select a version and install torch with CUDA
