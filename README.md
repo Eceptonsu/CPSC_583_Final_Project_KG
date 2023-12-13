@@ -9,17 +9,17 @@ Our project can be devided into three main part:
 3. We also proposed further improvements such as utilizing Genetic Algorithm.
 
 ## Dependencies
-Please first install torch with CUDA\
-Then do
-`pip install torch_geometric`
-`python -c "import torch; print(torch.version.cuda)"`
-And then
-`pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-${TORCH}+${CUDA}.html`
+Please first select a version and install torch with CUDA\
+Then do\
+`pip install torch_geometric`\
+`python -c "import torch; print(torch.version.cuda)"`\
+And then\
+`pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-${TORCH}+${CUDA}.html`\
 Where TORCH and CUDA are replaced by the specific torch and CUDA versions\
 (according to the official documentation https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)\
 
-Then, you can simply do
-`pip install -r requirements.txt`
+Then, you can simply do\
+`pip install -r requirements.txt`\
 For the rest of the dependencies
 
 ## Running the Project
